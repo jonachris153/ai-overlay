@@ -1,0 +1,4 @@
+SDF Inspection Report
+File: Wafer_01.jpeg
+Defects: 4
+Severity: Medium
